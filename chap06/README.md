@@ -32,10 +32,15 @@
 ![image](https://github.com/morningB/algorithm/assets/114423035/220f6dce-c143-4c57-ba15-f6ccbfab23a7)
 
 * 연산
+
 insert_first(): 리스트의 시작 부분에 항목을 삽입하는 함수
+
 insert(): 리스트의 중간 부분에 항목을 삽입하는 함수
+
 delete_first(): 리스트의 첫번째 항목을 삭제하는 함수
+
 delete(): 리스트의 중간 항목을 삭제하는 함수
+
 print_list(): 리스트를 방문하여 모든 항목을 출력하는 함수
 
 
